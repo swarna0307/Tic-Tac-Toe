@@ -1,4 +1,4 @@
-//sample game
+//sample game - TicTacToe
 
 import java.util.Scanner;
 
